@@ -1,0 +1,1 @@
+Sat Jul 24 2021 10:39:14 GMT+0530 (India Standard Time) => blitzkreig: {"meaning":"German for \"lightning war\", tactic used by the Nazis to [conquer] Europe from [1936] to [1940].","example":"Lots of [planes], lots of [tanks], lots of [troops]. Ah, the blitzkreig."} 
